@@ -10,30 +10,25 @@ For general information about developing packages, see the Dart guide for
 and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
+[![pub package](https://img.shields.io/pub/v/flutter_lint_plus.svg)](https://pub.dev/packages/flutter_lint_plus)
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+此包包含一组推荐的用于Flutter应用程序、包和插件的lint，以鼓励良好的编码实践。
 
 ## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+- 代码校验
+- 格式化代码
 
 ## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+```yaml
+flutter_lint: ^latest_version
+```
 
 ## Usage
+to `./analysis_options.yaml`.
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
+```yaml
+include: package:flutter_lint_plus/flutter_lint_plus.yaml
 ```
 
 ## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+- 暂无
