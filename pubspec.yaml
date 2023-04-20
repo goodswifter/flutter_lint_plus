@@ -1,0 +1,11 @@
+name: flutter_lint
+description: Recommended lints for Flutter apps, packages, and plugins to encourage good coding practices.
+version: 1.0.0
+homepage: https://github.com/goodswifter/flutter_lint.git
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+  flutter: '>=1.17.0'
+
+dependencies:
+  # lints: ^2.0.0
