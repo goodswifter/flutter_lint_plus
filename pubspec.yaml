@@ -4,8 +4,8 @@ version: 1.0.1
 homepage: https://github.com/goodswifter/flutter_lint_plus.git
 
 environment:
-  sdk: '>=2.18.2 <3.0.0'
-  flutter: '>=1.17.0'
+  sdk: ">=2.18.2 <4.0.0"
+  flutter: ">=1.17.0"
 
 dependencies:
   # lints: ^2.0.0
