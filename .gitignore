@@ -27,3 +27,6 @@ migrate_working_dir/
 .dart_tool/
 .packages
 build/
+
+# lock文件
+pubspec.lock
